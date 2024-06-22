@@ -1,2 +1,3 @@
-# CEK_KHODAM_KSB
-WEB CEK KHODAM KSB
+# khodam
+cek khodam cuman projek have fun iseng aja wkwk
+https://cek-khodam-teal.vercel.app/
